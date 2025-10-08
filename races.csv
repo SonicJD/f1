@@ -1,4 +1,4 @@
-raceId,year,round,circuitId,name,date,time,url,fp1_date,fp1_time,fp2_date,fp2_time,fp3_date,fp3_time,quali_date,quali_time,sprint_date,sprint_time
+raceId,year,round,circuitId,name,date,time,url
 1,2009,1,1,"Australian Grand Prix","2009-03-29","06:00:00","http://en.wikipedia.org/wiki/2009_Australian_Grand_Prix"          
 2,2009,2,2,"Malaysian Grand Prix","2009-04-05","09:00:00","http://en.wikipedia.org/wiki/2009_Malaysian_Grand_Prix"          
 3,2009,3,17,"Chinese Grand Prix","2009-04-19","07:00:00","http://en.wikipedia.org/wiki/2009_Chinese_Grand_Prix"          
@@ -1106,7 +1106,6 @@ raceId,year,round,circuitId,name,date,time,url,fp1_date,fp1_time,fp2_date,fp2_ti
 1124,2024,4,22,"Japanese Grand Prix","2024-04-07","05:00:00","https://en.wikipedia.org/wiki/2024_Japanese_Grand_Prix"
 1125,2024,5,17,"Chinese Grand Prix","2024-04-21","07:00:00","https://en.wikipedia.org/wiki/2024_Chinese_Grand_Prix"
 1126,2024,6,79,"Miami Grand Prix","2024-05-05","20:00:00","https://en.wikipedia.org/wiki/2024_Miami_Grand_Prix"
-1127,2024,7,21,"Emilia Romagna Grand Prix","2024-05-19","13:00:00","https://en.wikipedia.org/wiki/2024_Emilia_Romagna_Grand_Prix
 1128,2024,8,6,"Monaco Grand Prix","2024-05-26","13:00:00","https://en.wikipedia.org/wiki/2024_Monaco_Grand_Prix"
 1129,2024,9,7,"Canadian Grand Prix","2024-06-09","18:00:00","https://en.wikipedia.org/wiki/2024_Canadian_Grand_Prix"
 1130,2024,10,4,"Spanish Grand Prix","2024-06-23","13:00:00","https://en.wikipedia.org/wiki/2024_Spanish_Grand_Prix"
